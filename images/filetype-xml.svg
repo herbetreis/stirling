@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 525 525" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <title>Layer 1</title>
+    <path id="path-1" d="M 203 0 L 323 0 C 434 0 525 90 525 203 L 525 323 C 525 434 435 525 322 525 L 202 525 C 92 525 0 435 0 322 L 0 202 C 0 92 90 0 203 0 Z" style="fill: rgb(25, 177, 212);">
+      <title>red</title>
+    </path>
+  </g>
+  <path d="M 200 355 L 110 265 L 200 175 L 221.375 196.375 L 152.375 265.375 L 221 334 L 200 355 Z M 320 355 L 298.625 333.625 L 367.625 264.625 L 299 196 L 320 175 L 410 265 L 320 355 Z" style="fill: rgb(255, 255, 255);"/>
+</svg>
